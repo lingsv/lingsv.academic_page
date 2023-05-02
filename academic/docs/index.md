@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Bem-vindo(a) à minha página!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## **Ana Carolina Gomes da Silva**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
+### Mestre em Linguística pela FFLCH/USP
+### Tecnóloga em Análise e desenvolvimento de Sistemas pela FATEC São Caetano Do Sul
 
-## Project layout
+<center>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<img src="foto.jpeg">
+
+

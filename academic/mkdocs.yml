@@ -1,1 +1,34 @@
-site_name: My Docs
+site_name: Ana Carolina Gomes
+
+nav:
+    - Home: index.md
+    - Sobre mim: bio.md
+    - Publicações: publications.md
+    - Tech: tech.md
+    
+theme: 
+  name: material
+  language: pt-BR
+  palette:
+    primary: purple
+  font:
+    text: Montserrat
+  features:
+    - navigation.tabs
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - navigation.footer
+
+plugins:
+  - search:
+      lang: pt
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/carol_gsv
+    - icon:  fontawesome/brands/github
+      link: https://github.com/lingsv
+
