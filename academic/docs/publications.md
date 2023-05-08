@@ -1,9 +1,19 @@
----
-title: "Publications"
-date: 2022-10-28T22:36:39-03:00
-draft: false
----
+# **Trajetória acadêmica**
 
+## **Currículo acadêmico0 e redes sociais**
+
+**Lattes**: [http://lattes.cnpq.br/8432690481215799](http://lattes.cnpq.br/8432690481215799)
+
+**ORCID**: [https://orcid.org/0000-0002-0981-9798](https://orcid.org/0000-0002-0981-9798)
+
+**Google Acadêmico**: [https://scholar.google.com.br/citations?user=1OvZ1K0AAAAJ&hl=pt-BR](https://scholar.google.com.br/citations?user=1OvZ1K0AAAAJ&hl=pt-BR)
+
+**Academia.edu**: [https://usp-br.academia.edu/linagsv](https://usp-br.academia.edu/linagsv)
+
+**ResearchGate**: [https://www.researchgate.net/profile/Ana-Gomes-Da-Silva](https://www.researchgate.net/profile/Ana-Gomes-Da-Silva)
+
+
+---
 ## Dissertação
 
 **Título:** Aplicação de um protocolo de avaliação de linguagem de base pragmática em falantes de português brasileiro: base teórica, procedimentos e fatores de influência
@@ -54,3 +64,5 @@ draft: false
 **Citação:** SILVA, A. C. G.. 'Os dois reis e os dois labirintos'. São Paulo: Revista Cisma, 2013.
 
 **Obs:** Tradução do conto *Los dos reyes y los dos laberintos* de Jorge Luis Borges.
+
+---

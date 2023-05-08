@@ -1,10 +1,6 @@
----
-title: "Tech"
-date: 2022-10-28T22:36:46-03:00
-draft: false
----
+# **Carreira em Tecnologia**
 
-## Skills
+## **Skills**
 
 - Jupyter-Notebook
 - Python
@@ -13,10 +9,14 @@ draft: false
 - Linux
 - Markdown
 - AWS
+- Cloud
+- Visualização de dados
+- Gestão de conhecimento
+- Metodologias Ágeis
 
 
 *****************
-## Alguns projetos
+## **Projetos selecionados**
 
 
 ### NLP

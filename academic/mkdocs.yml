@@ -2,15 +2,25 @@ site_name: Ana Carolina Gomes
 
 nav:
     - Home: index.md
-    - Sobre mim: bio.md
-    - Publicações: publications.md
-    - Tech: tech.md
+    - Trajetória acadêmica: publications.md
+    - Carreira em Tecnologia: tech.md
     
 theme: 
   name: material
   language: pt-BR
-  palette:
-    primary: purple
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   font:
     text: Montserrat
   features:
