@@ -19,7 +19,7 @@ Também atuo como voluntária na comunidade Start Coding, que visa promover conh
 
 ## **Minha trajetória profissional**
 
-Cursei o Bacahrelado em Letras - Português e Espanhol pela FFLCH/USP, finalizado em 2014.
+Cursei o Bacharelado em Letras - Português e Espanhol pela FFLCH/USP, finalizado em 2014.
 
 Realizei mestrado na área de neurolinguística e pragmática pela FFLCH/USP. Defendi o mestrado em 2018.
 
